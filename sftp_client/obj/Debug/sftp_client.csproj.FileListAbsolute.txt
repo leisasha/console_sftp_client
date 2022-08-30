@@ -1,0 +1,10 @@
+C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\bin\Debug\sftp_client.exe.config
+C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\bin\Debug\sftp_client.exe
+C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\bin\Debug\sftp_client.pdb
+C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\bin\Debug\Renci.SshNet.dll
+C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\bin\Debug\Renci.SshNet.xml
+C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\obj\Debug\sftp_client.csprojAssemblyReference.cache
+C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\obj\Debug\sftp_client.csproj.CoreCompileInputs.cache
+C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\obj\Debug\sftp_client.csproj.CopyComplete
+C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\obj\Debug\sftp_client.exe
+C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\obj\Debug\sftp_client.pdb
