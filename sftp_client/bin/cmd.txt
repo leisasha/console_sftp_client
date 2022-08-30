@@ -1,1 +1,0 @@
-sftp_client.exe "exchange.utrace.ru" "xantis_xantis_1c_test_tcoorx" "lak71q4jqClu5Nu" "/Archive" "C:\ProgramData\test_sftp_file.txt"

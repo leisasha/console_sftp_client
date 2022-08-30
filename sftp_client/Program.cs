@@ -1,10 +1,6 @@
 ﻿using System;
 using System.IO;
 using Renci.SshNet;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace sftp_client
 {
@@ -15,10 +11,10 @@ namespace sftp_client
             int result = 0;
 
             // Подключение к SFTP и копирование с компьютера ++
-            string host = @"" + args[0]; //@"exchange.utrace.ru";
-            string username = @"" + args[1]; //"xantis_xantis_1c_test_tcoorx";
-            string password = @"" + args[2]; // "lak71q4jqClu5Nu";
-            string remoteDirectory = @"" + args[3]; // "/Archive";
+            string host = @"" + args[0];
+            string username = @"" + args[1];
+            string password = @"" + args[2];
+            string remoteDirectory = @"" + args[3];
             string pathFromFile = @"" + args[4]; // Полный путь к файлу
 
             bool connected = false;
@@ -39,6 +35,7 @@ namespace sftp_client
                 catch (Exception ex) {
                     result = -1; // непредвиденная ошибка
                     /*
+                    // если хотим записывать ошибку в log
                     using (StreamWriter writer = new StreamWriter("C:\\templog.txt", true))
                     {
                         writer.WriteLine("An exception has been caught " + ex.ToString());
