@@ -1,9 +1,0 @@
-C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\bin\Release\sftp_client.exe.config
-C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\bin\Release\sftp_client.exe
-C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\bin\Release\sftp_client.pdb
-C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\bin\Release\Renci.SshNet.dll
-C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\bin\Release\Renci.SshNet.xml
-C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\obj\Release\sftp_client.csproj.CoreCompileInputs.cache
-C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\obj\Release\sftp_client.csproj.CopyComplete
-C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\obj\Release\sftp_client.exe
-C:\Users\Erendzhen.Bambushev\source\repos\sftp_client\sftp_client\obj\Release\sftp_client.pdb
