@@ -5,6 +5,8 @@
   
 #
  _Для сборки советую использовать IDE "Microsoft visual studio"_
+ 
+ Так же можно воспользоваться командной строкой. Пример(в косоле): C:\Windows\Microsoft.NET\Framework\<версия .NET>\msbuild <Путь к проекту>\sftp_client.sln
 
  Если вы используете IDE "Microsoft visual studio", тогда после автоматической сборки в папке sftp\bin\Release(или Debug) вам необходимы sftp_client.exe (исполняемый файл) и Renci.SshNet.dll (динамическая библиотека для работы с ssh и sftp).  
    
