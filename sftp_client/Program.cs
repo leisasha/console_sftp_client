@@ -1,11 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Security.Cryptography;
 using Gnu.Getopt;
 using Renci.SshNet;
-using Renci.SshNet.Common;
 using Renci.SshNet.Sftp;
 
 namespace sftp_client
